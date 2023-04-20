@@ -1,26 +1,30 @@
-# Stress Detection Project
+Stress Detection Project
+This project is focused on detecting stress using machine learning by analyzing physiological indicators, such as heart rate and skin conductance. The aim is to create an accurate and efficient model for predicting stress. To use this project, please follow the steps outlined below.
 
-This project focuses on stress detection using machine learning, based on physiological features such as heart rate and skin conductance. The goal is to develop an accurate and efficient stress prediction model. If you want to use this project, please follow the steps below.
+Step 1
+Download the complete project repository file and extract it. The zip file contains several files, including:
 
-## Step 1
+Main.tex: The LaTeX file used to generate the PDF report.
+Image folder: Contains all images and result outputs for the project.
+content folder: Holds the stress detection dataset provided by M.S. Ravi's 2021 GitHub repository, Stress-Detection-in-Nurses https://github.com/CPHSLab/Stress-Detection-in-Nurses.
+output.log: Lists the output of all LaTeX documents.
+reference.bib: Contains all references used to create the report document.
+stress_detection.ipynb: The main source code file.
+README and LICENSE files.
 
-Download the full project repository file and unzip it.
+Step 2
+Open the stress_detection.ipynb file in Jupyter Notebook. Be sure to install all necessary libraries by executing the following command in your Jupyter Notebook:
 
-## Step 2
-
-Open the `stress_detection.ipynb` file in Jupyter Notebook. Make sure to install all the required libraries by running the following command in your Jupyter Notebook:
-
-```bash
 !pip install library_name
 
-Replace library_name with the appropriate library required for the project. You may need to do this for multiple libraries.
+Replace 'library_name' with the specific library needed for the project. This may need to be done for multiple libraries.
 
-Also, check the dataset location/path and make sure it is correct.
+Additionally, verify the dataset location/path is accurate.
 
-## Step 3
-Now you can click the "Run All" button in Jupyter Notebook and see the output. Enjoy exploring the stress detection project!
+Step 3
+Click the "Run All" button in Jupyter Notebook to see the output. Enjoy exploring the stress detection project!
 
 Additional Information
-This project includes various machine learning models, data preprocessing techniques, and data visualization methods. By using the provided code, you can gain insights into the performance of different models and learn how to effectively manage stress using machine learning algorithms.
+This project encompasses various machine learning models, data preprocessing methods, and data visualization techniques. By utilizing the provided code, you can gain insight into the performance of different models and learn how to effectively manage stress using machine learning algorithms.
 
-Please note that this project is for educational purposes and should not be used for commercial applications without permission. If you have any questions or require further assistance, feel free to contact the repository owner.
+Please note that this project is intended for educational purposes and should not be used for commercial applications without permission. If you have any questions or need further assistance, please contact the repository owner.
