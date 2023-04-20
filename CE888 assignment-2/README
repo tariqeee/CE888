@@ -1,0 +1,26 @@
+# Stress Detection Project
+
+This project focuses on stress detection using machine learning, based on physiological features such as heart rate and skin conductance. The goal is to develop an accurate and efficient stress prediction model. If you want to use this project, please follow the steps below.
+
+## Step 1
+
+Download the full project repository file and unzip it.
+
+## Step 2
+
+Open the `stress_detection.ipynb` file in Jupyter Notebook. Make sure to install all the required libraries by running the following command in your Jupyter Notebook:
+
+```bash
+!pip install library_name
+
+Replace library_name with the appropriate library required for the project. You may need to do this for multiple libraries.
+
+Also, check the dataset location/path and make sure it is correct.
+
+## Step 3
+Now you can click the "Run All" button in Jupyter Notebook and see the output. Enjoy exploring the stress detection project!
+
+Additional Information
+This project includes various machine learning models, data preprocessing techniques, and data visualization methods. By using the provided code, you can gain insights into the performance of different models and learn how to effectively manage stress using machine learning algorithms.
+
+Please note that this project is for educational purposes and should not be used for commercial applications without permission. If you have any questions or require further assistance, feel free to contact the repository owner.
